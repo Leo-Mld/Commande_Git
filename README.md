@@ -1,6 +1,5 @@
 # Commande-Git
 
-
 Git config
 
 Elle permet de configurer les préférences de l’utilisateur ( mail, nom d’utilisateur )
